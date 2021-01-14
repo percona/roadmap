@@ -14,7 +14,8 @@ Percona Roadmaps:
 More to come.
 
 ## Security disclosures
-TBD
+
+If you have found a potential security issue, please do not submit it here. Instead, please follow the instructions [here](https://www.percona.com/security).
 
 
 ## FAQs
