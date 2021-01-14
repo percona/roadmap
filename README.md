@@ -1,8 +1,8 @@
 ## Percona Roadmap
-Here you can find public roadmaps for all Percona products.
+Here you can find public roadmaps for Percona products
 
 ## Introduction
-Percona is an open source company. All our products have public roadmaps and open for the community and customers. Anyone can create new feature requests and upvote the most wanted ideas.
+Percona is an open source company. Our products have public roadmaps and open for the community and customers. Anyone can create new feature requests and upvote the most wanted ideas.
 
 Percona Roadmaps:
 * [Kubernetes Operators](https://github.com/percona/roadmap/projects/1)
