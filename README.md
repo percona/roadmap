@@ -7,6 +7,9 @@ Percona is an open source company. Our products have public roadmaps and open fo
 Percona Roadmaps:
 * [Kubernetes Operators](https://github.com/percona/roadmap/projects/1)
 * [Percona Monitoring and Management](https://github.com/percona/roadmap/projects/2)
+* [Percona Server for MySQL](https://github.com/percona/roadmap/projects/3)
+* [Percona XtraDB Cluster](https://github.com/percona/roadmap/projects/4)
+* [Percona Server for MongoDB](https://github.com/percona/roadmap/projects/5)
 
 More to come.
 
@@ -17,7 +20,7 @@ TBD
 ## FAQs
 **Q: Why public roadmaps?**
 
-A: Users of our products can plan accordingly if they know what we are working on. Als we would love to know which features are the most wanted by the customers and the community.
+A: We want to learn which features are the most important for the community and our customers and we want to show where we are with implementing the desired functionality.
 
 **Q: Why are there no dates on your roadmap?**
 
