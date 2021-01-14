@@ -1,4 +1,4 @@
-> :warning: **This is an experimental page and we are actively working on it**
+:warning: **This is an experimental page and we are actively working on it**
 
 ## Percona Roadmap
 Here you can find public roadmaps for Percona products. 
