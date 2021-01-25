@@ -1,24 +1,34 @@
 :warning: **This is an experimental page and we are actively working on it**
 
-## Percona Roadmap
-Here you can find public roadmaps for Percona products. 
-
 ## Introduction
-Percona is an open source company. Our products have public roadmaps and open for the community and customers. Anyone can create new feature requests and upvote the most wanted ideas.
+[Percona](https://www.percona.com/) is an open source company. Our products have public roadmaps and open for the community and customers. 
 
-Percona Roadmaps:
-* [Kubernetes Operators](https://github.com/percona/roadmap/projects/1)
-* [Percona Monitoring and Management](https://github.com/percona/roadmap/projects/2)
-* [Percona Server for MySQL](https://github.com/percona/roadmap/projects/3)
-* [Percona XtraDB Cluster](https://github.com/percona/roadmap/projects/4)
-* [Percona Server for MongoDB](https://github.com/percona/roadmap/projects/5)
+| Product | Public roadmap | Github repository |
+| --- | --- | --- |
+| Percona Kubernetes Operators | [Roadmap](https://github.com/percona/roadmap/projects/1) | [Percona XtraDB Cluster Operator](https://github.com/percona/percona-xtradb-cluster-operator/)<br>[Percona MongoDB Operator](https://github.com/percona/percona-server-mongodb-operator/) |
+| Percona Monitoring and Management | [WIP](https://github.com/percona/roadmap/projects/2) | [PMM](https://github.com/percona/pmm) |
+| Percona Server for MySQL | [WIP](https://github.com/percona/roadmap/projects/3) | [PS](https://github.com/percona/percona-server) |
+| Percona XtraDB Cluster | [WIP](https://github.com/percona/roadmap/projects/4) | [PXC](https://github.com/percona/percona-xtradb-cluster) |
+| Percona Server for MongoDB | [WIP](https://github.com/percona/roadmap/projects/5) | [PSMDB](https://github.com/percona/percona-server-mongodb) |
 
-More to come.
+### Goal
+
+Public roadmaps are created to involve community into the process of shaping the product roadmap and keeping community informed about the progress to deliver the most wanted features. Anyone can submit new [Issues](https://github.com/percona/roadmap/issues) or upvote existing ones to influence the roadmap.
+
+### Bugs and questions
+
+The roadmap is all about new features or significant improvements. 
+* To submit a bug please use Percona JIRA instead. Please see instructions on the product's page in github.
+* For general questions or help please use [Percona Community Forum](https://forums.percona.com/)
+
+### JIRA
+
+Our engineering teams use our public [JIRA](https://jira.percona.com/) for development tracking. Most of the items in the roadmap have JIRA ticket IDs in the titles (ex. K8SPXC-530) for integration and easier mapping.
+
 
 ## Security disclosures
 
 If you have found a potential security issue, please do not submit it here. Instead, please follow the instructions [here](https://www.percona.com/security).
-
 
 ## FAQs
 **Q: Why public roadmaps?**
