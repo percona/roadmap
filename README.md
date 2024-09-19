@@ -4,7 +4,7 @@
 | Product | Public roadmap | Github repository |
 | --- | --- | --- |
 | Percona Kubernetes Operators | [Roadmap](https://github.com/percona/roadmap/projects/1) | [Percona Operator for MySQL based on PXC](https://github.com/percona/percona-xtradb-cluster-operator/)<br>[Percona Operator for MongoDB](https://github.com/percona/percona-server-mongodb-operator/)<br>[Percona Operator for PostgreSQL](https://github.com/percona/percona-postgresql-operator/)<br>[Percona Operator for MySQL](https://github.com/percona/percona-server-mysql-operator) |
-| Percona Monitoring and Management | [WIP](https://github.com/percona/roadmap/projects/2) | [PMM](https://github.com/percona/pmm) |
+| Ivee by Percona | [Roadmap](https://github.com/percona/roadmap/projects/2) | [Ivee by Percona](https://ivee.cloud) |
 
 ### Goal
 
