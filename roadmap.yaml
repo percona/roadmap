@@ -1,0 +1,29 @@
+title: Percona Kubernetes Operators Roadmap
+description: |
+  Public roadmap for Percona Kubernetes Operators: planned features, backlog,
+  and release status for Percona Operator for MongoDB (PSMDB), Percona Operator
+  for MySQL, Percona Operator for MySQL/Percona XtraDB Cluster (PXC), and
+  Percona Operator for PostgreSQL.
+url: https://github.com/orgs/percona/projects/10
+contribute_url: https://github.com/percona/roadmap
+last_updated: 2026-01-23
+
+operators:
+  - id: psmdb
+    name: Percona Operator for MongoDB
+    repo: https://github.com/percona/percona-server-mongodb-operator
+    docs: https://docs.percona.com/percona-operator-for-mongodb
+  - id: mysql
+    name: Percona Operator for MySQL
+    repo: https://github.com/percona/percona-server-mysql-operator
+    docs: https://docs.percona.com/percona-operator-for-mysql
+  - id: pxc
+    name: Percona Operator for MySQL / Percona XtraDB Cluster
+    repo: https://github.com/percona/percona-xtradb-cluster-operator
+    docs: https://docs.percona.com/percona-operator-for-mysql
+  - id: pg
+    name: Percona Operator for PostgreSQL
+    repo: https://github.com/percona/percona-postgresql-operator
+    docs: https://docs.percona.com/percona-operator-for-postgresql
+
+schema_version: "1.0"
