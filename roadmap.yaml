@@ -16,7 +16,7 @@ operators:
   - id: mysql
     name: Percona Operator for MySQL
     repo: https://github.com/percona/percona-server-mysql-operator
-    docs: https://docs.percona.com/percona-operator-for-mysql
+    docs: https://docs.percona.com/percona-operator-for-mysql/ps/
   - id: pxc
     name: Percona Operator for MySQL / Percona XtraDB Cluster
     repo: https://github.com/percona/percona-xtradb-cluster-operator
