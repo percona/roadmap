@@ -20,7 +20,7 @@ operators:
   - id: pxc
     name: Percona Operator for MySQL / Percona XtraDB Cluster
     repo: https://github.com/percona/percona-xtradb-cluster-operator
-    docs: https://docs.percona.com/percona-operator-for-mysql
+    docs: https://docs.percona.com/percona-operator-for-mysql/pxc/
   - id: pg
     name: Percona Operator for PostgreSQL
     repo: https://github.com/percona/percona-postgresql-operator
